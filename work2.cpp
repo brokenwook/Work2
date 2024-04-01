@@ -39,7 +39,7 @@ class Teleport : public Mechanic {
 public:
 	void move()override
 	{
-		std::cout << "Я телепортуруюсь" << std::endl;
+		std::cout << "Я телепортируюсь" << std::endl;
 	}
 
 };
